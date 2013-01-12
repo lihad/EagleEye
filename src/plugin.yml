@@ -1,0 +1,10 @@
+name: EagleEye
+main: Lihad.EagleEye.EagleEye
+version: 2.0
+commands:
+  eagle:
+    description: EagleEye is always watching
+    usage: type /<command> for help 
+  eaglecrash:
+    description: EagleEye is always watching
+    usage: type /<command> for help 
